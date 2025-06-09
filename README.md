@@ -27,9 +27,9 @@ A simple yet powerful command-line based finance manager built with Python.
 ## 📁 File Structure | ساختار فایل
 
 finance-manager/
-├── finance_manager.py       # Main script file
-├── finance_data.json        # JSON file to store income and expense data
-└── README.md                # Project documentation (this file)
+├── finance_manager.py # Main script file
+├── finance_data.json # JSON file to store income and expense data
+└── README.md # Project documentation (this file)
 
 ---
 ## 🖥 Preview | پیش‌نمایش
