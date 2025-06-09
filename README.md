@@ -24,6 +24,14 @@ A simple yet powerful command-line based finance manager built with Python.
 
 ---
 
+## 📁 File Structure | ساختار فایل
+
+finance-manager/
+├── finance_manager.py       # Main script file
+├── finance_data.json        # JSON file to store income and expense data
+└── README.md                # Project documentation (this file)
+
+---
 ## 🖥 Preview | پیش‌نمایش
 
 ```bash
@@ -39,3 +47,4 @@ Enter description: June rent
 
 Choose an action (add_income, add_expense, show_summary, show_data, exit): show_summary
 Total Income: 5000.0, Total Expenses: 1200.0, Balance: 3800.0
+
